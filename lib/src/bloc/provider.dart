@@ -23,7 +23,7 @@ class Provider extends InheritedWidget {
 
   final loginBloc = LoginBloc();
 
-  // Provider({ Key key, Widget child })
+  // Provider({ Key key, Widget child }) //esto es una prueba
   //   : super(key: key, child: child );
 
  
